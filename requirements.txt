@@ -1,0 +1,13 @@
+torch==2.0.1
+transformers==4.37.2
+bitsandbytes==0.41.3
+accelerate==0.25.0
+whisper
+gradio==3.33.1
+gTTS==2.2.4
+nltk==3.8.1
+Pillow==9.2.0
+numpy==1.24.2
+requests==2.31.0
+# whisper model from https://github.com/openai/whisper.git
+# llava multimodle : "llava-hf/llava-1.5-7b-hf"
